@@ -14,7 +14,7 @@ authors = ["H Chen", "L Albergante", "JY Hsu", "CA Lareau", "G Lo Bosco", "J Gua
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = "Preprint"
@@ -33,7 +33,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = ["example-external-project.md"]
+projects = []
 
 # Links (optional).
 # url_pdf = ""
