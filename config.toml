@@ -234,7 +234,7 @@ enableGitInfo = false
     link = "https://github.com/Albluca"
 
   [[params.social]]
-    icon = "linkedin"
+    icon = "linkedin-in"
     icon_pack = "fb"
     link = "https://www.linkedin.com/in/luca-albergante-8a92a18/"
 
