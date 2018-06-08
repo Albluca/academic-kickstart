@@ -17,8 +17,8 @@ authors = ["L Albergante", "J Timmis", "L Beattie", "PM Kaye"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In PLOS Computational Biology"
-publication_short = "In PLOS Comp Bio"
+publication = "PLOS Computational Biology"
+publication_short = "PLOS Comp Bio"
 
 # Abstract and optional shortened version.
 abstract = "Experimental visceral leishmaniasis, caused by infection of mice with the protozoan parasite Leishmania donovani, is characterized by focal accumulation of inflammatory cells in the liver, forming discrete “granulomas” within which the parasite is eventually eliminated. To shed new light on fundamental aspects of granuloma formation and function, we have developed an in silico Petri net model that simulates hepatic granuloma development throughout the course of infection. The model was extensively validated by comparison with data derived from experimental studies in mice, and the model robustness was assessed by a sensitivity analysis. The model recapitulated the progression of disease as seen during experimental infection and also faithfully predicted many of the changes in cellular composition seen within granulomas over time. By conducting in silico experiments, we have identified a previously unappreciated level of inter-granuloma diversity in terms of the development of anti-leishmanial activity. Furthermore, by simulating the impact of IL-10 gene deficiency in a variety of lymphocyte and myeloid cell populations, our data suggest a dominant local regulatory role for IL-10 produced by infected Kupffer cells at the core of the granuloma."

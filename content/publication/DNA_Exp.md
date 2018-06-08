@@ -17,8 +17,8 @@ authors = ["A Moreno", "JT Carrington", "L Albergante", "M Al Mamun", "EJ Haagen
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the National Academy of Sciences "
-publication_short = "In PNAS"
+publication = "Proceedings of the National Academy of Sciences"
+publication_short = "PNAS"
 
 # Abstract and optional shortened version.
 abstract = "To prevent rereplication of genomic segments, the eukaryotic cell cycle is divided into two nonoverlapping phases. During late mitosis and G1 replication origins are “licensed” by loading MCM2-7 double hexamers and during S phase licensed replication origins activate to initiate bidirectional replication forks. Replication forks can stall irreversibly, and if two converging forks stall with no intervening licensed origin—a “double fork stall” (DFS)—replication cannot be completed by conventional means. We previously showed how the distribution of replication origins in yeasts promotes complete genome replication even in the presence of irreversible fork stalling. This analysis predicts that DFSs are rare in yeasts but highly likely in large mammalian genomes. Here we show that complementary strand synthesis in early mitosis, ultrafine anaphase bridges, and G1-specific p53-binding protein 1 (53BP1) nuclear bodies provide a mechanism for resolving unreplicated DNA at DFSs in human cells. When origin number was experimentally altered, the number of these structures closely agreed with theoretical predictions of DFSs. The 53BP1 is preferentially bound to larger replicons, where the probability of DFSs is higher. Loss of 53BP1 caused hypersensitivity to licensing inhibition when replication origins were removed. These results provide a striking convergence of experimental and theoretical evidence that unreplicated DNA can pass through mitosis for resolution in the following cell cycle."

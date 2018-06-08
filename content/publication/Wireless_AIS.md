@@ -17,8 +17,8 @@ authors = ["L Albergante"]
 publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In International Symposium on Performance Evaluation of Computer and Telecommunication Systems, 2008. (SPECTS 2008). "
-publication_short = "In SPECTS 2008"
+publication = "International Symposium on Performance Evaluation of Computer and Telecommunication Systems, 2008. (SPECTS 2008). "
+publication_short = "SPECTS 2008"
 
 # Abstract and optional shortened version.
 abstract = "This paper describes a distributed moderation protocol for wireless discussion forums. Moderating a large discussion forum is a complex task that requires knowledgeable human moderators to check newly posted messages, and ban users that break the rules. The presented protocol uses a bio-inspired approach: well-behaving posters are modelled as healthy cells of a living organism, while ill-behaving ones are modelled as infected cells that try to disrupt this organism. An artificial immune system is defined, whose goal is the detection and removal of infected cells, thus automating the moderation process. The identification of infected cells is supported by a feedback mechanism that allows all the posters of the forum to rate both other posters and the performance of the artificial immune system. If the posters of the forum consider the immune response unsatisfactory, an artificial lymphatic system modifies the artificial immune system with the aim of improving the immune response rating. Finally, the use of an ad hoc wireless network allows for flexibility and resilience."

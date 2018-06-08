@@ -17,8 +17,8 @@ authors = ["L Albergante", "D Liu", "S Palmer", "TJ Newman"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "In Biophysics of Infection"
-publication_short = "In Biophysics of Infection"
+publication = "Biophysics of Infection"
+publication_short = "Biophysics of Infection"
 
 # Abstract and optional shortened version.
 abstract = "We discuss an overtly “simple approach” to complex biological systems borrowing selectively from theoretical physics. The approach is framed by three maxims, and we show examples of its success in two different applications: investigating cellular robustness at the level of gene regulatory networks and quantifying rare events of DNA replication errors."

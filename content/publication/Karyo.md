@@ -17,8 +17,8 @@ authors = ["L Albergante", "JHS Dayal", "TJ Newman", "AP South"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Convergent Science Physical Oncology"
-publication_short = "In Conv. Sc. Phys. Onc."
+publication = "Convergent Science Physical Oncology"
+publication_short = "Conv. Sc. Phys. Onc."
 
 # Abstract and optional shortened version.
 abstract = "Tumour heterogeneity presents a significant obstacle for cancer therapeutics. Tumour cell karyotyping has the potential to uncover chromosomal heterogeneity at a single cell resolution, but it relies on a slow and laborious method that restricts its utility for solid tumours in a clinical setting. Here, we report a reproducible high throughput computer assisted method to analyse tumour heterogeneity in cutaneous squamous cell carcinoma (cSCC) keratinocytes using spectral karyotyping. Using this method we confirm heterogeneity disparities between early passage, spontaneously immortalized keratinocytes isolated from two UV induced cSCC tumours (SCCT1 and SCCT8). We then use our method to monitor karyotypic heterogeneity in the surviving SCCT1 drug treated population. We find a marked increase in karyotypic heterogeneity post treatment in the surviving cell population compared to control cells. Our findings shed new light on the impact of drug treatment on tumour heterogeneity at the level of genomic organization and indicate that the combination of spectral karyotyping and computer aided statistical analysis is an efficient tool to quantify karyotypic heterogeneity and clonal evolution of tumour cells."

@@ -17,8 +17,8 @@ authors = ["L Albergante", "JJ Blow", "TJ Newman"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In eLife"
-publication_short = "In eLife"
+publication = "eLife"
+publication_short = "eLife"
 
 # Abstract and optional shortened version.
 abstract = "The gene regulatory network (GRN) is the central decision‐making module of the cell. We have developed a theory called Buffered Qualitative Stability (BQS) based on the hypothesis that GRNs are organised so that they remain robust in the face of unpredictable environmental and evolutionary changes. BQS makes strong and diverse predictions about the network features that allow stable responses under arbitrary perturbations, including the random addition of new connections. We show that the GRNs of E. coli, M. tuberculosis, P. aeruginosa, yeast, mouse, and human all verify the predictions of BQS. BQS explains many of the small- and large‐scale properties of GRNs, provides conditions for evolvable robustness, and highlights general features of transcriptional response. BQS is severely compromised in a human cancer cell line, suggesting that loss of BQS might underlie the phenotypic plasticity of cancer cells, and highlighting a possible sequence of GRN alterations concomitant with cancer initiation."

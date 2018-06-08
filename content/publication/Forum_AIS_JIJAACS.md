@@ -14,11 +14,11 @@ authors = ["L Albergante", "J Timmis", "P Andrews", "L Beattie", "PM Kaye"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In Hart E, McEwan C, Timmis J, Hone A, eds., International Conference on Artificial Immune Systems (ICARIS)"
-publication_short = "In ICARIS 2010"
+publication = "International Conference on Artificial Immune Systems (ICARIS 2010)"
+publication_short = "ICARIS 2010"
 
 # Abstract and optional shortened version.
 abstract = "Leishmania donovani is an obligate intracellular parasite responsible for the systemic disease visceral leishmaniasis. During the course of the disease, the parasite is found in the spleen, liver and bone marrow. Characteristic of the liver immune response to leishmaniasis is a type of inflammation (“granulomatous inflammation”) that results in the formation of granulomas, structures comprised of an infiltrate of mononuclear cells surrounding a core of infected macrophages. Granulomas help limit the spread of infection and facilitate the killing of parasites. This paper introduces a model of granuloma formation and maintenance."

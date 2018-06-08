@@ -14,11 +14,11 @@ authors = ["L Albergante"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["1"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In eLife"
-publication_short = "In eLife"
+publication = "eLife"
+publication_short = "eLife"
 
 # Abstract and optional shortened version.
 abstract = "This paper presents a protocol to eliminate the necessity for human moderators in forums, thus automatising the moderation process. The protocol uses a bio-inspired approach: well- and ill-behaving posters are modelled as healthy and infected cells of a living organism. Moderators are modelled as leukocytes that remove infected cells. The identification of infected cells is supported by a feedback mechanism that allows posters to rate both other posters and the performance of the moderators. To achieve an adaptive moderation, an artificial lymphatic system, modifies the group of moderators with the aim of improving the immune response when needed. This paper focuses on ad hoc wireless networks, however the modifications needed to port the protocol to a wireless network using infrastructure mode are described. To evaluate the performance of the protocol, the outcome of a simulation of the forum is presented."

@@ -17,8 +17,8 @@ authors = ["S Palmer", "L Albergante", "CC Blackburn", "TJ Newman"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Proceedings of the National Academy of Sciences "
-publication_short = "In PNAS"
+publication = "Proceedings of the National Academy of Sciences "
+publication_short = "PNAS"
 
 # Abstract and optional shortened version.
 abstract = "In our PNAS article, we explore the relationship between thymic involution and rising disease incidence with age. In letters from Jiménez-Alonso et al., Schooling and Zhao, and Mortazavi, the authors point out several topics deserving further discussion."

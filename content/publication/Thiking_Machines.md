@@ -17,8 +17,8 @@ authors = ["M Casu", "L Albergante"]
 publication_types = ["6"]
 
 # Publication name and optional abbreviated version.
-publication = "In  Thinking Machines and the Philosophy of Computer Science: Concepts and Principles"
-publication_short = "In  Thinking Machines and the Philosophy of Computer Science: Concepts and Principles"
+publication = "Thinking Machines and the Philosophy of Computer Science: Concepts and Principles"
+publication_short = "Thinking Machines and the Philosophy of Computer Science: Concepts and Principles"
 
 # Abstract and optional shortened version.
 abstract = "The notion of identity has been discussed extensively in the past. Leibniz was the first to present this notion in a logically coherent way, using a formulation generally recognized as “Leibniz's Law”. Although some authors criticized this formulation, Leibniz's Law is generally accepted as the definition of identity. This work interprets Leibniz's Law as a limit notion: perfectly reasonable in a God's eye view of reality, but very difficult to use in the real world because of the limitedness of finite agents. To illustrate our approach we use “description logics” to describe the properties of objects, and present an approach to relativize Leibniz's Law. This relativization is further developed in a semantic web context, where the utility of our approach is suggested."
