@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Mathematics and Statistics for Computational Sciences"
+  course = "Ph.D. in Mathematics and Statistics for Computational Sciences"
   institution = "University of Milan, Milan, Italy"
   year = 2010
 
@@ -31,5 +31,14 @@ weight = 5
 
 # Biography
 
-Luca Albergante is a researcher in Bioinformatics and Computational Biology. He has a strong interest in developing computational methods to extract information from complex biological data.
+I'm a researcher working on the development of machine learning algorithms to extract information from complex data, with a particular focus on biology.
+
+In 2006, I obtained a M.Sc. in Computer Science from the University of Milan with a thesis on Cryptography. Then, in 2010, I obtained a Ph.D. in Applied Mathematics from the same University with a thesis centered on the development of a computational model of Leishmaniasis.
+
+In 2011, I joined the group of Computational Systems Biology at the University of Dundee (Dundee, UK), where I developed new computational tools to investigate cancer biology by analyzing gene networks, cellular karyotypes, DNA repair mechanisms, location of DNA mutations and  epidemiological data.
+
+In 2016, I joined the group of Computational Systems Biology of Cancer at the Institut Curie (Paris, France), where I'm mostly developed new computational tools to explore the activity of biological pathway and to derive gene dynamics from single-cell transcriptomics data.
+
+I have been supervising B.Sc., M.Sc. and Ph.D. student and I have been a lecturer for B.Sc. and M.Sc. courses on Bioinformatics, Applied Statistics, Algorithms, Cryptography, and Information Theory. I've also been a visiting scholar at the University of York (York, UK) and at the Harvard Medical School (Boston, USA).
+
 
