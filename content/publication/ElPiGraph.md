@@ -3,7 +3,7 @@ title = "Robust and scalable learning of data manifolds with complex topologies 
 date = 2018-06-10T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["L Albergante" "EM Mirkes" "H Chen" "A Martin" "L Faure" "E Barillot" "L Pinello" "AN Gorban" "A Zinovyev"]
+authors = ["L Albergante", "EM Mirkes", "H Chen", "A Martin", "L Faure", "E Barillot", "L Pinello", "AN Gorban", "A Zinovyev"]
 
 # Publication type.
 # Legend:
