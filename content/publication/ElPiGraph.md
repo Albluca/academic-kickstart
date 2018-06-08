@@ -22,7 +22,7 @@ publication_short = "preprint"
 
 # Abstract and optional shortened version.
 abstract = "Large datasets, characterized by  multidimensional data point clouds, possessing non-trivial features, such as branching trajectories and excluded regions, are becoming common across many disciplines, with the distribution of single-cell transcriptomes being a notable example. However, reducing the complexity and producing insightful visual representations of such data remains a challenging task. Most of existing computational methods are based on exploring the local data point neighbourhood relations, a step that can perform poorly in the case of multidimensional and noisy data. Here we present ElPiGraph, a method for scalable and robust approximation of datasets with complex structures which does not require computing the complete data distance matrix or the point neighbourhood graph. The method is able to withstand high levels of noise and, due to its fast implementation, can be used to build resampled principal graph ensembles that can be used to construct a consensus principal graph able to approximate very complex topologies. ElPiGraph can be used to deal efficiently with large and complex datasets in various fields from biology, where it can be used to infer gene dynamics from single-cell RNA-Seq, to astronomy, where it can be used to explore complex structures in the distribution of galaxies."
-abstract_short = "This article present ElPiGraph, a flexible and robust machine manifold learning approach that I implemented as an R package"
+abstract_short = "This article presents ElPiGraph, a flexible and robust manifold learning approach that I implemented as an R package"
 
 # Featured image thumbnail (optional)
 image_preview = ""

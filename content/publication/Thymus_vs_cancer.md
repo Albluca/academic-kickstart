@@ -22,7 +22,7 @@ publication_short = "In PNAS"
 
 # Abstract and optional shortened version.
 abstract = "For many cancer types, incidence rises rapidly with age as an apparent power law, supporting the idea that cancer is caused by a gradual accumulation of genetic mutations. Similarly, the incidence of many infectious diseases strongly increases with age. Here, combining data from immunology and epidemiology, we show that many of these dramatic age-related increases in incidence can be modeled based on immune system decline, rather than mutation accumulation. In humans, the thymus atrophies from infancy, resulting in an exponential decline in T cell production with a half-life of ∼16 years, which we use as the basis for a minimal mathematical model of disease incidence. Our model outperforms the power law model with the same number of fitting parameters in describing cancer incidence data across a wide spectrum of different cancers, and provides excellent fits to infectious disease data. This framework provides mechanistic insight into cancer emergence, suggesting that age-related decline in T cell output is a major risk factor."
-abstract_short = "In this article, I use statistical analysis on epidemiological data derived from different sources to show how a mathematical model based on immunesenescence is able to describe the incidence of various infectious diseases and cancers."
+abstract_short = "In this article, I used statistical analysis on epidemiological data derived from different sources to show how a mathematical model based on immunesenescence is able to describe the incidence of various infectious diseases and cancers."
 
 
 # Featured image thumbnail (optional)
