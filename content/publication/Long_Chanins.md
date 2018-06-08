@@ -28,7 +28,7 @@ abstract_short = "In this article, I used network analysis and statistics to stu
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
