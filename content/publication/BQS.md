@@ -49,7 +49,7 @@ url_pdf = "https://doi.org/10.7554/eLife.02863"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Joint research shows daughter cells resolve their mother’s unreplicated DNA", url = "http://www.lifesci.dundee.ac.uk/news/2014/sep/2/biological-networks-interdisciplinary-collaboration-sheds-light-what-makes-cells"}]
+url_custom = [{name = "Biological networks: interdisciplinary collaboration sheds light on what makes cells robust", url = "http://www.lifesci.dundee.ac.uk/news/2014/sep/2/biological-networks-interdisciplinary-collaboration-sheds-light-what-makes-cells"}]
 
 # Does the content use math formatting?
 math = false

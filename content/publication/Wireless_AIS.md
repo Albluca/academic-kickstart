@@ -1,6 +1,6 @@
 +++
 title = "Wireless discussion forums: Automatic management via artificial immune systems"
-date = 2009-02-02T00:00:00
+date = 2008-06-16T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["L Albergante"]
