@@ -1,9 +1,9 @@
 +++
-title = "Identification of 2R-ohnologue gene families displaying the same mutation-load skew in multiple cancers"
-date = 2014-05-07T00:00:00
+title = "Quantitation of multiclonality in control and drug-treated tumour populations using high-throughput analysis of karyotypic heterogeneity"
+date = 2015-12-07T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["M Tinti", "K Dissanayake", "S Synowsky", "L Albergante", "C MacKintosh"]
+authors = ["L Albergante", "JHS Dayal", "TJ Newman", "AP South"]
 
 # Publication type.
 # Legend:
@@ -17,12 +17,12 @@ authors = ["M Tinti", "K Dissanayake", "S Synowsky", "L Albergante", "C MacKinto
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In Open Biology"
-publication_short = "In Open Bio."
+publication = "In Convergent Science Physical Oncology"
+publication_short = "In Conv. Sc. Phys. Onc."
 
 # Abstract and optional shortened version.
-abstract = "The complexity of signalling pathways was boosted at the origin of the vertebrates, when two rounds of whole genome duplication (2R-WGD) occurred. Those genes and proteins that have survived from the 2R-WGD—termed 2R-ohnologues—belong to families of two to four members, and are enriched in signalling components relevant to cancer. Here, we find that while only approximately 30% of human transcript-coding genes are 2R-ohnologues, they carry 42–60% of the gene mutations in 30 different cancer types. Across a subset of cancer datasets, including melanoma, breast, lung adenocarcinoma, liver and medulloblastoma, we identified 673 2R-ohnologue families in which one gene carries mutations at multiple positions, while sister genes in the same family are relatively mutation free. Strikingly, in 315 of the 322 2R-ohnologue families displaying such a skew in multiple cancers, the same gene carries the heaviest mutation load in each cancer, and usually the second-ranked gene is also the same in each cancer. Our findings inspire the hypothesis that in certain cancers, heterogeneous combinations of genetic changes impair parts of the 2R-WGD signalling networks and force information flow through a limited set of oncogenic pathways in which specific non-mutated 2R-ohnologues serve as effectors. The non-mutated 2R-ohnologues are therefore potential therapeutic targets. These include proteins linked to growth factor signalling, neurotransmission and ion channels."
-abstract_short = "In this article, I develop a statistical approach to study a peculiar bias in gene mutations observed across different cancers. This bias can be explained using an evolutionary perspective that stresses the importance of non-mutated genes for the survival of cancer cells."
+abstract = "Tumour heterogeneity presents a significant obstacle for cancer therapeutics. Tumour cell karyotyping has the potential to uncover chromosomal heterogeneity at a single cell resolution, but it relies on a slow and laborious method that restricts its utility for solid tumours in a clinical setting. Here, we report a reproducible high throughput computer assisted method to analyse tumour heterogeneity in cutaneous squamous cell carcinoma (cSCC) keratinocytes using spectral karyotyping. Using this method we confirm heterogeneity disparities between early passage, spontaneously immortalized keratinocytes isolated from two UV induced cSCC tumours (SCCT1 and SCCT8). We then use our method to monitor karyotypic heterogeneity in the surviving SCCT1 drug treated population. We find a marked increase in karyotypic heterogeneity post treatment in the surviving cell population compared to control cells. Our findings shed new light on the impact of drug treatment on tumour heterogeneity at the level of genomic organization and indicate that the combination of spectral karyotyping and computer aided statistical analysis is an efficient tool to quantify karyotypic heterogeneity and clonal evolution of tumour cells."
+abstract_short = "In this article, I used image analysis on spectral karyotypes in combination with multidimensional statistics to study the heterogeneity of cancer cell lines before and after a drug treatment."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -37,7 +37,7 @@ selected = false
 projects = []
 
 # Links (optional).
-url_pdf = "https://doi.org/10.1098/rsob.140029"
+url_pdf = "https://doi.org/10.1088/2057-1739/1/2/025001"
 # url_preprint = "https://www.biorxiv.org/content/early/2018/04/18/302554.1"
 # url_code = "#"
 # url_dataset = "#"
@@ -49,7 +49,7 @@ url_pdf = "https://doi.org/10.1098/rsob.140029"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Study of DNA and datasets gives fresh insight into cancer", url = "http://www.lifesci.dundee.ac.uk/news/2014/may/8/study-dna-and-datasets-gives-fresh-insight-cancer"}]
+# url_custom = [{name = "Custom Link", url = "http://example.org"}]
 
 # Does the content use math formatting?
 math = false
