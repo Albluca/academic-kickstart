@@ -19,12 +19,12 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Mathematics and Statistics for Computational Sciences"
-  institution = "University of Milan"
+  institution = "University of Milan, Milan, Italy"
   year = 2010
 
 [[education.courses]]
   course = "M.Sc. in Computer Science"
-  institution = "Massachusetts Institute of Technology"
+  institution = "University of Milan, Milan, Italy"
   year = 2006
  
 +++
