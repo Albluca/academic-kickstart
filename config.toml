@@ -6,7 +6,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Luca Albergante"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -47,7 +47,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "forest"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Institut Curie, Paris, France", url = "https://sysbio.curie.fr" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "Paris_Seine.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Paris_Seine.jpeg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "luca.albergante@gmail.com"
   address = "Institut Curie, PSL Research University, F-75005 Paris, France"
   office_hours = ""
