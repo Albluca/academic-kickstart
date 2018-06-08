@@ -11,8 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Machine Learning",
-    "Computational Biology",
     "Computational Intelligence",
+    "Computational Biology",
+    "Bioinformatics",
     "Single cell data analysis"
   ]
 
