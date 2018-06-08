@@ -232,10 +232,10 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fa"
     link = "https://github.com/Albluca"
-
+    
   [[params.social]]
     icon = "linkedin-in"
-    icon_pack = "fb"
+    icon_pack = "fa"
     link = "https://www.linkedin.com/in/luca-albergante-8a92a18/"
 
   [[params.social]]
