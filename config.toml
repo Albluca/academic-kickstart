@@ -229,6 +229,16 @@ enableGitInfo = false
     link = "mailto:luca.albergante@gmail.com"
 
   [[params.social]]
+    icon = "github"
+    icon_pack = "fa"
+    link = "https://github.com/Albluca"
+
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fb"
+    link = "https://www.linkedin.com/in/luca-albergante-8a92a18/"
+
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fa"
     link = "https://twitter.com/albergante"
@@ -239,9 +249,16 @@ enableGitInfo = false
     link = "https://scholar.google.fr/citations?user=b4e6zQQAAAAJ&hl=en"
 
   [[params.social]]
-    icon = "github"
-    icon_pack = "fa"
-    link = "https://github.com/Albluca"
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "http://orcid.org/0000-0001-8151-6989"
+
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Luca_Albergante"
+    
+  
 
 
 # Navigation Links
