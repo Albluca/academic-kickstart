@@ -294,15 +294,15 @@ enableGitInfo = false
   url = "#talks"
   weight = 4
 
-[[menu.main]]
-  name = "Posters"
-  url = "#posters"
-  weight = 5
+#[[menu.main]]
+#  name = "Posters"
+#  url = "#posters"
+#  weight = 5
 
-[[menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 6
+#[[menu.main]]
+#  name = "Teaching"
+#  url = "#teaching"
+#  weight = 6
 
 [[menu.main]]
   name = "Contact"
