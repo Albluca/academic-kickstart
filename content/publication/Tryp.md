@@ -27,7 +27,7 @@ abstract = "The parasitic African trypanosome, Trypanosoma brucei, evades the ad
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
