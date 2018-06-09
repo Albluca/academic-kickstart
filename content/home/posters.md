@@ -10,6 +10,11 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 30
 
+# Content.
+# Display content from the following folder.
+# For example, `folder = "project"` displays content from `content/project/`.
+folder = "posters"
+
 # Number of talks to list.
 count = 5
 
