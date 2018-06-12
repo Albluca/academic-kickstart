@@ -54,7 +54,7 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Luca Albergante"
+  name = "Luca Albergante, Ph.D."
   role = "Data Scientist / Bioinformatician"
 
   # Organizations/Affiliations.
@@ -306,7 +306,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "CV"
-  url = "static/Albergante_CV.pdf"
+  url = "files/Albergante_CV.pdf"
   weight = 6
 
 [[menu.main]]
