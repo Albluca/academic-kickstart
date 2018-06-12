@@ -305,6 +305,11 @@ enableGitInfo = false
 #  weight = 6
 
 [[menu.main]]
+  name = "CV"
+  url = "static/Albergante_CV.pdf"
+  weight = 6
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
   weight = 7
