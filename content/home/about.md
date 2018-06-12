@@ -38,8 +38,8 @@ In 2006, I obtained a M.Sc. in Computer Science from the University of Milan wit
 
 In 2011, I joined the group of Computational Systems Biology at the University of Dundee (Dundee, UK), where I developed new computational tools to investigate cancer biology by analyzing gene networks, cellular karyotypes, DNA repair mechanisms, location of DNA mutations and  epidemiological data.
 
-In 2016, I joined the group of Computational Systems Biology of Cancer at the Institut Curie (Paris, France), where I'm mostly developed new computational tools to explore the activity of biological pathway and to derive gene dynamics from single-cell transcriptomics data.
+In 2016, I joined the group of Computational Systems Biology of Cancer at the Institut Curie (Paris, France), where I am developing new computational tools to explore the activity of biological pathway and to derive gene dynamics from single-cell transcriptomics data.
 
-I have been supervising B.Sc., M.Sc. and Ph.D. student and I have been a lecturer for B.Sc. and M.Sc. courses on Bioinformatics, Applied Statistics, Algorithms, Cryptography, and Information Theory. I've also been a visiting scholar at the University of York (York, UK) and at the Harvard Medical School (Boston, USA).
+{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}}
 
 
