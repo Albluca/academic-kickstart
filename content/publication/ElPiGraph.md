@@ -1,5 +1,5 @@
 +++
-title = "Robust and scalable learning of data manifolds with complex topologies via ElPiGraph"
+title = "Robust And Scalable Learning Of Complex Dataset Topologies Via Elpigraph"
 date = 2018-06-07T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -38,7 +38,7 @@ projects = []
 
 # Links (optional).
 #url_pdf = ""
-url_preprint = "https://arxiv.org/abs/1804.07580"
+url_preprint = "https://arxiv.org/abs/1804.07580v2"
 #url_code = "#"
 #url_dataset = "#"
 #url_project = "#"
