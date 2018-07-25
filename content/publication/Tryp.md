@@ -17,11 +17,11 @@ authors = ["D Liu", "L Albergante", "D Horn", "TJ Newman"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Preprint"
-publication_short = "Preprint"
+publication = "Scientific Reports"
+publication_short = "SR"
 
 # Abstract and optional shortened version.
-abstract = "The parasitic African trypanosome, Trypanosoma brucei, evades the adaptive host immune response by a process of antigenic variation that involves the clonal switching of variant surface glycoproteins (VSGs). The VSGs that periodically come to dominate in vivo display a hierarchy, but how this hierarchy arises is not well-understood. Combining publicly available genetic data with mathematical modelling, we report a VSG-length-dependent hierarchical timing of clonal VSG dominance in a mouse model, revealing an inverse correlation between VSG length and trypanosome growth-rate. Our analysis indicates that, among parasites switching to new VSGs, those expressing shorter VSGs preferentially accumulate to a detectable level that is sufficient to trigger an effective immune response. Subsequent elimination of faster-growing parasites then allows slower parasites with longer VSGs to accumulate. This interaction between the host and parasite is able by itself to explain the temporal distribution of VSGs observed in vivo. Thus, our findings reveal a length-dependent hierarchy that operates during T. brucei infection, representing a “feint attack” diversion tactic utilised during infection by these persistent parasites to out-maneuver the host immune system."
+abstract = "The parasitic African trypanosome, Trypanosoma brucei, evades the adaptive host immune response by a process of antigenic variation that involves the clonal switching of variant surface glycoproteins (VSGs). The VSGs that come to dominate in vivo during an infection are not entirely random, but display a hierarchical order. How this arises is not fully understood. Combining available genetic data with mathematical modelling, we report a VSG-length-dependent hierarchical timing of clonal VSG dominance in a mouse model, consistent with an inverse correlation between VSG length and trypanosome growth-rate. Our analyses indicate that, among parasites switching to new VSGs, those expressing shorter VSGs preferentially accumulate to a detectable level that is sufficient to trigger a targeted immune response. This may be due to the increased metabolic cost of producing longer VSGs. Subsequent elimination of faster-growing parasites then allows slower-growing parasites with longer VSGs to accumulate. This interaction between the host and parasite is able to explain the temporal distribution of VSGs observed in vivo. Thus, our findings reveal a length-dependent hierarchy that operates during T. brucei infection. This represents a ‘feint attack’ diversion tactic utilised by these persistent parasites to out-maneuver the host adaptive immune system."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -36,7 +36,7 @@ selected = false
 projects = []
 
 # Links (optional).
-# url_pdf = ""
+url_pdf = "https://www.nature.com/articles/s41598-018-29296-8"
 url_preprint = "https://doi.org/10.1101/131029"
 # url_code = "#"
 # url_dataset = "#"
