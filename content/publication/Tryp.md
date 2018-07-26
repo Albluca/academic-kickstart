@@ -1,6 +1,6 @@
 +++
 title = "Faster Growth With Shorter Antigens Explains A VSG Hierarchy During African Trypanosome Infections: A Feint Attack By Parasites"
-date = 2017-04-26T00:00:00
+date = 2018-07-19T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["D Liu", "L Albergante", "D Horn", "TJ Newman"]
