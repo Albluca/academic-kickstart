@@ -305,8 +305,13 @@ enableGitInfo = false
 #  weight = 6
 
 [[menu.main]]
-  name = "CV"
-  url = "files/cv.pdf"
+  name = "Compact CV"
+  url = "files/cv_compact.pdf"
+  weight = 6
+
+[[menu.main]]
+  name = "Extended CV"
+  url = "files/cv_extended.pdf"
   weight = 6
 
 [[menu.main]]
