@@ -40,6 +40,6 @@ In 2011, I joined the group of Computational Systems Biology at the University o
 
 In 2016, I joined the group of Computational Systems Biology of Cancer at the Institut Curie (Paris, France), where I am developing new computational tools to explore the activity of biological pathway and to infer gene expression dynamics from single-cell transcriptomics data.
 
-Download my CV ({{% staticref1 "files/cv_compact.pdf" %}}Compact{{% /staticref1 %}} / {{% staticref2 "files/cv_extended.pdf" %}}Extended{{% /staticref2 %}}
+Download my CV ({{% staticref "files/cv_compact.pdf" %}}Compact{{% /staticref %}} / {{% staticref "files/cv_extended.pdf" %}}Extended{{% /staticref %}}
 
 
